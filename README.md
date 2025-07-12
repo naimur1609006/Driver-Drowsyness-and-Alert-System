@@ -1,6 +1,7 @@
 # behavioral-and-emotion-recognition
+>This project is done by me and my supervised student Raihan Islam combinedly. The whole tested images as shown in here are taken by my thesis student.
 
-> This project aims to develop a system for recognizing human behavioral and emotional states using computer vision techniques. The system is designed to analyze facial expressions and gestures to determine the emotional and behavioral state of an individual.
+> This project aims to develop a system for recognizing human behavioral and emotional states using computer vision techniques. The system is designed to analyze facial expressions and gestures to determine the emotional and behavioral state of an individual. 
 
 > This is the intial landing page.
 
